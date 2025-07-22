@@ -4,7 +4,7 @@ Zum Spielen
 
  ## Meine To-Dos:
  - [x] README.md befüllen
- - [ ] Issue erstellen
- - [ ] Issue bearbeiten
- - [ ] Issue schließen
+ - [x] Issue erstellen
+ - [x] Issue bearbeiten
+ - [x] Issue schließen
  - [ ] Andere Dinge ...
