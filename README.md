@@ -7,4 +7,5 @@ Zum Spielen
  - [x] Issue erstellen
  - [x] Issue bearbeiten
  - [x] Issue schließen
+ - [x] Branch erstellen
  - [ ] Andere Dinge ...
